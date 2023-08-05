@@ -1,0 +1,130 @@
+.container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+ margin-left: 0%;
+    left: 0;
+   margin-right: 17%;
+   white-space: nowrap;
+}
+.container2 .head .h3{
+    margin-left: 10px;
+    white-space: nowrap;
+}
+.right{
+    border: none;
+}
+.right .card-group{
+    border: none;
+    padding: 10px;
+}
+.right .card-group a{
+    text-decoration: none;
+}
+.right .card-group .card{
+    height: 100%;
+    padding: 10px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 .h3 {
+    margin-top: 150px;
+    padding: 40px;
+    font-size: 34px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+
+.container2 .cardou {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.card .button{
+     margin-top: 35px;
+    text-align: center;
+    padding: 27px;
+    color: black;
+    background: rgb(198, 194, 194);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.card-group .card-body {
+    color: white;
+    background-color: black;
+   width: 100%;
+   border: none;
+    border-radius: 8px;
+    font-size: large;
+    text-align: center;
+    padding: auto;
+}
+.carde:hover{
+    box-shadow: 10px;
+}
+.card-body .h2:hover{
+
+text-decoration:underline;
+}
+.container2 .h2 { 
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.carde a{
+    text-decoration: none;
+}
+.container2 .row {
+    display: flex;
+    align-items: center;
+    
+    justify-content: center;
+}
+
+.container2 .col-md-3 {
+    flex: 0 0 calc(50% - 20px);
+    margin: 10px;
+}
+
+.container2 .head {
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 button {
+    margin-top: 135px;
+    text-align: center;
+    padding: 15px;
+    color: black;
+    background: rgb(198, 194, 194);
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.container2 button:hover {
+    color: white;
+    background: orange;
+}
+.cardnichhe .card{
+    border: none;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardnichhe .card .btn .d{
+    padding: 4px;
+}

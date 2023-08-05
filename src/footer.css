@@ -1,0 +1,136 @@
+.main{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main .rightii .left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.main .leftii .imga{
+    margin-left: 650px;
+    width: 50px;
+    height: 200px;
+}
+.hello .container{
+    bottom: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hello  .h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+   
+  }
+.main .leftii img{
+    width: 200px;
+  height: 100%;
+  object-fit: contain;
+}
+
+.main .rightii .right .down{
+    margin-left: 0%;
+    margin-right: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.main .rightii .right .down a{
+font-size: 20px;
+margin-left: 0%;
+    padding: 20px;
+}
+.main .rightii{
+    float: right;
+
+    color: white;
+    display: flex;
+   
+}
+.rightii a{
+    text-decoration: none;
+    color: black;
+  }
+
+
+.main .rightii .card-group .h3{
+    font-weight:500;
+    font-size: larger;
+    
+    color: black;
+}
+.main .rightii .card-group .sec{
+   
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
+.main .rightii .card-group .sec .h1{
+    margin-bottom: 10px;
+    padding-right: 10px;
+    color: orange;
+}
+.main .rightii .card-group .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main .rightii .card-group .sec .secc .arrow{
+display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+}
+.main .rightii .card-group .sec .secc .arrow .nam{
+    font-weight:500;
+    font-size: larger;
+    
+    color: black;
+    margin-top: 20px;
+}
+.main .rightii .card-group .sec .secc .arrow .pehlarrow{
+    padding: 20px;
+}
+
+.main .rightii .card-group .sec .secc .arrow .pehlarrow:hover{
+    font-size: large;
+    color: orange;
+}
+.main .rightii .card-group .card{
+    border: none;
+}
+.main .rightii .card-group .h6:hover{
+    color: orange;
+}
+.rightii .right .up .body{
+
+    margin-top: 30px;
+}
+.rightii .right{
+    margin-left: 30px;
+
+}
+.rightii .right .heading{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+.main .rightii .card-group{
+    
+    margin-left: 50px;
+    padding-left: 500px;
+    
+    color: white;
+    border-radius: 4px;
+      white-space: nowrap;
+  }
